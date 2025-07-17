@@ -9,6 +9,8 @@
 - [Mundo 5 - Inputs e Interação com o Usuário](#galaxia-2-mundo-5)
 - [Mundo 7 - Operadores Aritméticos e Prática](#galaxia-2-mundo-7)
 - [Mundo 9 - Módulos, Bibliotecas e Aleatoriedade](#galaxia-2-mundo-9)
+- [Mundo 11 - Listas e Manipulação de Listas](#galaxia-2-mundo-11)
+- [Mundo 12 - Sets: Conjuntos, Operações e Aplicações](#galaxia-2-mundo-12)
 
 ### Galáxia 3
 - Mundo 1 *(em breve)*
@@ -35,6 +37,12 @@ Prática com operadores aritméticos (soma, subtração, multiplicação, divis�
 
 #### <a name="galaxia-2-mundo-9"></a>Mundo 9 - Módulos, Bibliotecas e Aleatoriedade
 Introdução ao uso de módulos e bibliotecas, especialmente a biblioteca `random` para gerar números aleatórios e realizar sorteios.
+
+#### <a name="galaxia-2-mundo-11"></a>Mundo 11 - Listas e Manipulação de Listas
+Como criar listas, acessar, modificar, inserir, remover elementos, fatiar, verificar existência, juntar listas e manipular dados em estruturas sequenciais.
+
+#### <a name="galaxia-2-mundo-12"></a>Mundo 12 - Sets: Conjuntos, Operações e Aplicações
+Como criar conjuntos (sets), remover duplicatas, adicionar/remover elementos, realizar operações matemáticas (união, interseção, diferença) e aplicações práticas como comparação de carteiras de investimentos.
 
 ---
 
