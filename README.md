@@ -11,6 +11,14 @@
 - [Mundo 9 - Módulos, Bibliotecas e Aleatoriedade](#galaxia-2-mundo-9)
 - [Mundo 11 - Listas e Manipulação de Listas](#galaxia-2-mundo-11)
 - [Mundo 12 - Sets: Conjuntos, Operações e Aplicações](#galaxia-2-mundo-12)
+- [Mundo 13 - Dicionários e Aplicações](#galaxia-2-mundo-13)
+- [Mundo 14 - Strings, Regex e Validação](#galaxia-2-mundo-14)
+- [Mundo 16 - Condições, Análise e Recomendação](#galaxia-2-mundo-16)
+- [Mundo 18 - Analisador de Carteira de Investimentos](#galaxia-2-mundo-18)
+- [Mundo 20 - Funções, Lambda e Map](#galaxia-2-mundo-20)
+- [Mundo 21 - Tratamento de Erros e Calculadora](#galaxia-2-mundo-21)
+- [Mundo 22 - Ferramentas de Otimização e Filtragem](#galaxia-2-mundo-22)
+- [Mundo 23 - Datas e Manipulação de Datas](#galaxia-2-mundo-23)
 
 ### Galáxia 3
 - Mundo 1 *(em breve)*
@@ -43,6 +51,30 @@ Como criar listas, acessar, modificar, inserir, remover elementos, fatiar, verif
 
 #### <a name="galaxia-2-mundo-12"></a>Mundo 12 - Sets: Conjuntos, Operações e Aplicações
 Como criar conjuntos (sets), remover duplicatas, adicionar/remover elementos, realizar operações matemáticas (união, interseção, diferença) e aplicações práticas como comparação de carteiras de investimentos.
+
+#### <a name="galaxia-2-mundo-13"></a>Mundo 13 - Dicionários e Aplicações
+Como criar, acessar, modificar e aplicar dicionários em Python, incluindo exemplos práticos com dados de empresas, catálogos e tabelas.
+
+#### <a name="galaxia-2-mundo-14"></a>Mundo 14 - Strings, Regex e Validação
+Manipulação de strings, uso de expressões regulares (regex) para validação de e-mails e telefones, operações de busca, substituição e formatação de textos.
+
+#### <a name="galaxia-2-mundo-16"></a>Mundo 16 - Condições, Análise e Recomendação
+Criação de condições, análise de dados de empresas, recomendações de investimento baseadas em indicadores e exemplos de lógica condicional.
+
+#### <a name="galaxia-2-mundo-18"></a>Mundo 18 - Analisador de Carteira de Investimentos
+Desenvolvimento de um analisador de carteira de investimentos: coleta de dados de empresas, cálculo de indicadores como P/L e ROE médios, identificação da empresa com menor P/L, análise de diversificação e apresentação de estatísticas da carteira.
+
+#### <a name="galaxia-2-mundo-20"></a>Mundo 20 - Funções, Lambda e Map
+Introdução à criação de funções, uso de parâmetros opcionais, funções lambda e aplicação de funções a listas com `map`.
+
+#### <a name="galaxia-2-mundo-21"></a>Mundo 21 - Tratamento de Erros e Calculadora
+Como tratar erros com try/except, exemplos de calculadora robusta, tratamento de divisões por zero e entradas inválidas.
+
+#### <a name="galaxia-2-mundo-22"></a>Mundo 22 - Ferramentas de Otimização e Filtragem
+Otimização de código com list comprehensions, filter, map e lambda para filtrar, transformar e manipular listas de forma eficiente.
+
+#### <a name="galaxia-2-mundo-23"></a>Mundo 23 - Datas e Manipulação de Datas
+Como criar, manipular, formatar e extrair informações de datas em Python, incluindo uso de datetime, timedelta, relativedelta e fuso horário.
 
 ---
 
