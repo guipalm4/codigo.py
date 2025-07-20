@@ -21,8 +21,11 @@
 - [Mundo 23 - Datas e Manipulação de Datas](#galaxia-2-mundo-23)
 
 ### Galáxia 3
-- Mundo 1 *(em breve)*
-- Mundo 2 *(em breve)*
+- [Mundo 2 - Criação e manipulação de arrays com NumPy](#galaxia-3-mundo-2)
+- [Mundo 3-2 - Atributos e dimensões de arrays NumPy](#galaxia-3-mundo-3-2)
+- [Mundo 4-2 - Indexação e filtragem de arrays NumPy](#galaxia-3-mundo-4-2)
+- [Mundo 5-2 - Junção, separação e modificação de arrays NumPy](#galaxia-3-mundo-5-2)
+- [Mundo 6 - Operações matemáticas e estatísticas com arrays NumPy](#galaxia-3-mundo-6)
 
 ---
 
@@ -80,10 +83,20 @@ Como criar, manipular, formatar e extrair informações de datas em Python, incl
 
 ## Galáxia 3
 
-Conteúdo em desenvolvimento...
+#### <a name="galaxia-3-mundo-2"></a>Mundo 2 - Criação e manipulação de arrays com NumPy
+Como criar arrays a partir de listas, tuplas, ranges, arrays de zeros, uns, aleatórios, multidimensionais e matrizes usando a biblioteca NumPy.
 
-- Mundo 1 *(em breve)*
-- Mundo 2 *(em breve)*
+#### <a name="galaxia-3-mundo-3-2"></a>Mundo 3-2 - Atributos e dimensões de arrays NumPy
+Entenda a importância da homogeneidade dos arrays, atributos como nbytes, itemsize, ndim, shape, size e como acessar essas informações em arrays NumPy.
+
+#### <a name="galaxia-3-mundo-4-2"></a>Mundo 4-2 - Indexação e filtragem de arrays NumPy
+Como acessar posições, fatiar, filtrar dados em arrays unidimensionais e bidimensionais, além de exercícios práticos de filtragem e seleção de dados.
+
+#### <a name="galaxia-3-mundo-5-2"></a>Mundo 5-2 - Junção, separação e modificação de arrays NumPy
+Como juntar, separar, adicionar, inserir, deletar elementos, fazer reshape e modificar arrays NumPy de diversas formas.
+
+#### <a name="galaxia-3-mundo-6"></a>Mundo 6 - Operações matemáticas e estatísticas com arrays NumPy
+Realização de operações matemáticas (soma, subtração, multiplicação, divisão, exponenciação), operações entre arrays, operações com escalares e estatísticas descritivas (soma, média, máximo, mínimo, valor absoluto) usando NumPy.
 
 ---
 
