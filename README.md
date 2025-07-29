@@ -27,6 +27,11 @@
 - [Mundo 5-2 - Junção, separação e modificação de arrays NumPy](#galaxia-3-mundo-5-2)
 - [Mundo 6 - Operações matemáticas e estatísticas com arrays NumPy](#galaxia-3-mundo-6)
 
+### Galáxia 4
+- [Mundo 2 - Introdução ao Pandas: Séries e DataFrames](#galaxia-4-mundo-2)
+- [Mundo 3 - Índices e datas em Pandas](#galaxia-4-mundo-3)
+- [Mundo 4 - Seleção, filtragem e manipulação de dados em Pandas](#galaxia-4-mundo-4)
+
 ---
 
 ## Galáxia 2
@@ -97,6 +102,19 @@ Como juntar, separar, adicionar, inserir, deletar elementos, fazer reshape e mod
 
 #### <a name="galaxia-3-mundo-6"></a>Mundo 6 - Operações matemáticas e estatísticas com arrays NumPy
 Realização de operações matemáticas (soma, subtração, multiplicação, divisão, exponenciação), operações entre arrays, operações com escalares e estatísticas descritivas (soma, média, máximo, mínimo, valor absoluto) usando NumPy.
+
+---
+
+## Galáxia 4
+
+#### <a name="galaxia-4-mundo-2"></a>Mundo 2 - Introdução ao Pandas: Séries e DataFrames
+Como criar e manipular objetos Series e DataFrame com Pandas, a partir de listas, dicionários e séries temporais.
+
+#### <a name="galaxia-4-mundo-3"></a>Mundo 3 - Índices e datas em Pandas
+Como criar e manipular índices em Series e DataFrames, transformar colunas em índices, criar índices de datas e trabalhar com datas em Pandas.
+
+#### <a name="galaxia-4-mundo-4"></a>Mundo 4 - Seleção, filtragem e manipulação de dados em Pandas
+Como selecionar colunas, filtrar dados por condições, manipular índices e realizar operações de seleção avançada em DataFrames.
 
 ---
 
