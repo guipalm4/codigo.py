@@ -31,6 +31,9 @@
 - [Mundo 2 - Introdução ao Pandas: Séries e DataFrames](#galaxia-4-mundo-2)
 - [Mundo 3 - Índices e datas em Pandas](#galaxia-4-mundo-3)
 - [Mundo 4 - Seleção, filtragem e manipulação de dados em Pandas](#galaxia-4-mundo-4)
+- [Mundo 5 - Localização e indexação avançada com loc, iloc, at e iat](#galaxia-4-mundo-5)
+- [Mundo 6 - Operações aritméticas e criação de colunas em Pandas](#galaxia-4-mundo-6)
+- [Mundo 7 - Ordenação e organização de dados em Pandas](#galaxia-4-mundo-7)
 
 ---
 
@@ -115,6 +118,15 @@ Como criar e manipular índices em Series e DataFrames, transformar colunas em �
 
 #### <a name="galaxia-4-mundo-4"></a>Mundo 4 - Seleção, filtragem e manipulação de dados em Pandas
 Como selecionar colunas, filtrar dados por condições, manipular índices e realizar operações de seleção avançada em DataFrames.
+
+#### <a name="galaxia-4-mundo-5"></a>Mundo 5 - Localização e indexação avançada com loc, iloc, at e iat
+Como usar métodos de localização avançada (loc, iloc, at, iat) para acessar dados específicos em DataFrames, incluindo seleção por nomes de índices, posições numéricas e otimizações de performance.
+
+#### <a name="galaxia-4-mundo-6"></a>Mundo 6 - Operações aritméticas e criação de colunas em Pandas
+Como realizar operações aritméticas entre séries temporais, criar novas colunas baseadas em cálculos, trabalhar com dados históricos e gerar séries temporais simuladas.
+
+#### <a name="galaxia-4-mundo-7"></a>Mundo 7 - Ordenação e organização de dados em Pandas
+Como ordenar DataFrames por índices e colunas, organizar dados de forma crescente ou decrescente, e aplicar diferentes estratégias de ordenação em dados estruturados.
 
 ---
 
